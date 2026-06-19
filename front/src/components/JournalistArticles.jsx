@@ -1,0 +1,1 @@
+<Route path="/journalists/:id/articles" element={<JournalistArticles />} />
